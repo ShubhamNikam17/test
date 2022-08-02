@@ -1,0 +1,12 @@
+{
+  "name": "Contact Form",
+  "description": "Heroku Connect Sample App - Contact Form",
+  "repository": "https://github.com/ShubhamNikam17/test",
+  "success_url": "/setup.html",
+  "env": {
+    "PGSSLMODE": {
+      "description": "Require SSL for Postgres",
+      "value": "require"
+    }
+  }
+}
